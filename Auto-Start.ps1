@@ -4,3 +4,5 @@ Kobold
 The Bloke
 TortoiseTTS
 Stable-Swarm
+  Discord Bot Implementation
+Update-All
