@@ -11,5 +11,5 @@ rtx3090 stable-swarm 8822
 rtx2080ti comfyui discord bot 8818
 rtx3060 auto1111 7860
 p102-100 no-application
-photoprism
-minecraft
+photoprism 2342
+minecraft 32995
